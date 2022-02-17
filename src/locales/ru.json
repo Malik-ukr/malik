@@ -1,0 +1,10 @@
+{
+    "message": "hello from russia",
+    "centeral_frequency" :"центральная частота",
+    "Height_of_base_station": "Высота базовой станции",
+    "Height_of_user_terminal" : "Высота пользовательского терминала",
+     "update" : "Обновить",
+   "Transmission_gNode": "RUssian Transmission gNode" ,
+   "Receiver" :" RUssian Receiver/ User Terminal" ,
+   "Output" : "Russian Output" 
+  }

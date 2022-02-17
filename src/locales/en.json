@@ -1,0 +1,10 @@
+{
+  "message": "hello i18n !!",
+  "centeral_frequency" :"Centeral Frequency",
+  "Height_of_base_station": "Height of Base Station",
+  "Height_of_user_terminal" : "Height of user terminal",
+  "update" : " update",
+  "Transmission_gNode " : "Transmission gNode ",
+  "Receiver" :" Receiver/ User Terminal",
+  "Output" : "Output" 
+}
